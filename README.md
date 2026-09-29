@@ -17,7 +17,11 @@ HackerRank-Challenges
         |       ├── JavaIfElse.java
         |       └── JavaStdinAndStdoutII.java
         |
-        ├── Python/
+        ├── Python/  
+        |       ├── SayHelloWorldWithPython.py
+        |       ├── ArithmeticOperators.py
+        |       ├── PythonIfElse.py
+        |       └── Division.py
         ├── .gitignore
         └── README.md
 ```
