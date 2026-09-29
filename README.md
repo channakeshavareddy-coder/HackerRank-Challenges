@@ -54,8 +54,8 @@ For every challenge, I focus on:
 
 | Language | Challenges Solved |
 | -------- | ----------------- |
-| Java     | 3                 |
-| Python   | 0                 |
+| Java     | 4                 |
+| Python   | 4                 |
 
 This repository will be continuously updated as I solve more challenges and learn new concepts.
 
