@@ -15,7 +15,9 @@ HackerRank
         |       ├── WelcomeToJava.java
         |       ├── JavaStdinAndStdout.java
         |       ├── JavaIfElse.java
-        |       └── JavaStdinAndStdoutII.java
+        |       ├── JavaStdinAndStdoutII.java
+        |       ├── JavaOutputFormatting.java
+        |       └── JavaLoopsMultiplicationTable.java
         |
         ├── Python/  
         |       ├── SayHelloWorldWithPython.py
@@ -57,7 +59,7 @@ For every challenge, I focus on:
 
 | Language | Challenges Solved |
 | -------- | ----------------- |
-| Java     | 4                 |
+| Java     | 6                 |
 | Python   | 7                 |
 
 This repository will be continuously updated as I solve more challenges and learn new concepts.
