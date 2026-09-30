@@ -9,7 +9,7 @@ This repository contains my HackerRank solutions, where I practice programming, 
 **HackerRank-Challenges**
 
 ```text
-HackerRank-Challenges
+HackerRank
         |
         ├── Java/
         |       ├── WelcomeToJava.java
@@ -21,7 +21,10 @@ HackerRank-Challenges
         |       ├── SayHelloWorldWithPython.py
         |       ├── ArithmeticOperators.py
         |       ├── PythonIfElse.py
-        |       └── Division.py
+        |       ├── Division.py
+        |       ├── Loops.py
+        |       ├── WriteAFunction.py
+        |       └── PrintFunction.py
         ├── .gitignore
         └── README.md
 ```
@@ -55,7 +58,7 @@ For every challenge, I focus on:
 | Language | Challenges Solved |
 | -------- | ----------------- |
 | Java     | 4                 |
-| Python   | 4                 |
+| Python   | 7                 |
 
 This repository will be continuously updated as I solve more challenges and learn new concepts.
 
