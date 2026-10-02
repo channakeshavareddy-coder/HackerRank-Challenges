@@ -17,7 +17,8 @@ HackerRank
         |       ├── JavaIfElse.java
         |       ├── JavaStdinAndStdoutII.java
         |       ├── JavaOutputFormatting.java
-        |       └── JavaLoopsMultiplicationTable.java
+        |       ├── JavaLoopsMultiplicationTable.java
+        |       └── NumberSeriesUsingLoops.java
         |
         ├── Python/  
         |       ├── SayHelloWorldWithPython.py
@@ -59,7 +60,7 @@ For every challenge, I focus on:
 
 | Language | Challenges Solved |
 | -------- | ----------------- |
-| Java     | 6                 |
+| Java     | 7                 |
 | Python   | 7                 |
 
 This repository will be continuously updated as I solve more challenges and learn new concepts.
