@@ -11,7 +11,7 @@
  - Each series must be printed in order as a single line of n space-separated integers.
  */
 import java.util.Scanner;
-class Solution{
+class NumberSeriesUsingLoops{
     public static void main(String []argh){
         Scanner scan = new Scanner(System.in);
         int q = scan.nextInt();
