@@ -12,22 +12,28 @@ This repository contains my HackerRank solutions, where I practice programming, 
 HackerRank
         |
         ├── Java/
-        |       ├── WelcomeToJava.java
-        |       ├── JavaStdinAndStdout.java
-        |       ├── JavaIfElse.java
-        |       ├── JavaStdinAndStdoutII.java
-        |       ├── JavaOutputFormatting.java
-        |       ├── JavaLoopsMultiplicationTable.java
-        |       └── NumberSeriesUsingLoops.java
+        |       ├── 01 WelcomeToJava.java
+        |       ├── 02 JavaStdinAndStdout.java
+        |       ├── 03 JavaIfElse.java
+        |       ├── 04 JavaStdinAndStdoutII.java
+        |       ├── 05 JavaOutputFormatting.java
+        |       ├── 06 JavaLoopsMultiplicationTable.java
+        |       ├── 07 NumberSeriesUsingLoops.java
+        |       ├── 08 JavaStaticInitializerBlock.java
+        |       ├── 09 InheritanceI.java
+        |       ├── 10 InheritanceII.java
+        |       ├── 11 StringIntro.java
+        |       ├── 12 JavaIntToString.java
+        |       └── 13 JavaDataTypes.java
         |
         ├── Python/  
-        |       ├── SayHelloWorldWithPython.py
-        |       ├── ArithmeticOperators.py
-        |       ├── PythonIfElse.py
-        |       ├── Division.py
-        |       ├── Loops.py
-        |       ├── WriteAFunction.py
-        |       └── PrintFunction.py
+        |       ├── 01 SayHelloWorldWithPython.py
+        |       ├── 02 ArithmeticOperators.py
+        |       ├── 03 PythonIfElse.py
+        |       ├── 04 Division.py
+        |       ├── 05 Loops.py
+        |       ├── 06 WriteAFunction.py
+        |       └── 07 PrintFunction.py
         ├── .gitignore
         └── README.md
 ```
@@ -60,7 +66,7 @@ For every challenge, I focus on:
 
 | Language | Challenges Solved |
 | -------- | ----------------- |
-| Java     | 7                 |
+| Java     | 13                |
 | Python   | 7                 |
 
 This repository will be continuously updated as I solve more challenges and learn new concepts.
